@@ -1,0 +1,9 @@
+.box {
+  border:10px solid black;
+  text-align:center;
+  overflow:hidden;
+  background:red;
+  color:white;
+  font-size:100px;
+  line-height:200px;
+}

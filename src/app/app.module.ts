@@ -1,4 +1,5 @@
 import { WorkerAppModule } from '@angular/platform-webworker';
+import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
@@ -8,6 +9,7 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
+    NoopAnimationsModule,
     WorkerAppModule
   ],
   providers: [],
