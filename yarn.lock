@@ -4420,9 +4420,9 @@ silent-error@^1.0.0:
   dependencies:
     debug "^2.2.0"
 
-simplehttpserver@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/simplehttpserver/-/simplehttpserver-0.0.6.tgz#ed5535aaf4bef2f948c85c8e4f4c6dfb1c72ce2a"
+simplehttpserver@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/simplehttpserver/-/simplehttpserver-0.2.1.tgz#4ed845caca2a0b95c693bfa90475274c67ae50ba"
   dependencies:
     async "0.7.x"
     express "4.13.x"
